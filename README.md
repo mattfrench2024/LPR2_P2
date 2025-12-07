@@ -1,4 +1,4 @@
-# 🏥 Sistema de Cadastro de Pacientes – Hospital X
+# 🏥 Sistema de Cadastro de Pacientes – Hospital Java
 
 Este projeto consiste em uma aplicação desktop simples para **cadastro, consulta e pesquisa de pacientes** de um hospital.  
 O sistema foi construído com foco em **usabilidade, validação de dados, persistência em banco de dados** e **interface amigável**.
